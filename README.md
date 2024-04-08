@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy friend.
+
+![meditating](https://github.com/tearingItUp786/tearingItUp786/assets/16584942/94c8a63a-2aca-462b-b244-f709f5da8b5a)
+
+Learn more about me by visiting [my website]([url](https://taranveerbains.ca/about))! 
 
 <!--
 **tearingItUp786/tearingItUp786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
